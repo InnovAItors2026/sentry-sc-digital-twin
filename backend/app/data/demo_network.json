@@ -1,0 +1,10 @@
+{
+  "network_id": "demo-northwind-manufacturing",
+  "note": "Canonical twin is built in backend/app/data/demo_network.py. This file is a human-readable listing of the synthetic demo.",
+  "entities": {
+    "suppliers": ["SUP-001 Alpha COMP-A", "SUP-002 Beta COMP-A alt", "SUP-003 Gamma COMP-B", "SUP-004 Delta PACK"],
+    "factories": ["FAC-001 North 250/d", "FAC-002 South 180/d"],
+    "warehouses": ["WH-001 materials", "WH-002 FG central", "WH-003 East DC"],
+    "customers": ["CUS-001 Apex 80/d", "CUS-002 Northwind Dist 120/d", "CUS-003 Harbor 90/d"]
+  }
+}
